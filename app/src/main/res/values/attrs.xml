@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BarChart">
+        <attr name="axisTextSize" format="dimension" />
+        <attr name="axisTextColor" format="color" />
+        <attr name="axisPadding" format="dimension" />
+        <attr name="barWidth" format="dimension" />
+        <attr name="titleTextSize" format="dimension" />
+        <attr name="titleContentColor" format="color" />
+    </declare-styleable>
+</resources>
